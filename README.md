@@ -1,1 +1,1 @@
-# Konichiwa <a href="https://github.com/Kathryn-Jie"><a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" />
+<h1 align="center">Konichiwa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h1>
